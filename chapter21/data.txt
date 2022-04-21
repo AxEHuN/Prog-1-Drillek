@@ -1,6 +1,6 @@
-Pista 1 2.7
-Valaki 2 3.7
-Asd 3 4.7
-Dsa 4 5.7
-Elek 5 6.7
+Pista 5 4.7
+Valaki 2 2.7
+Asd 4 1.7
+Dsa 3 3.7
+Elek 1 8.7
 
